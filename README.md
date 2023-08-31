@@ -1,7 +1,7 @@
 ### Hi There👋
 
 <p align="left"> 
-  <img alt="Top langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moticat&layout=compact&show_icons=ture" />
+  <img alt="Top langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moticat&layout=compact&show_icons=true" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=moticat&show_icons=true" />
 </p>  
   
