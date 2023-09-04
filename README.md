@@ -11,6 +11,7 @@
 ## Profile
 「開発者」を名乗っていいのか怪しいレベルで知識がありません。[discord.js](https://discord.js.org)がちょっとできるくらいです。  
 最近はTypeScript/JavaScriptを学習しています。  
+カスみたいなリポジトリしかないです。
 
 ## 実績
 - 認証済みDiscordBotの運用  
