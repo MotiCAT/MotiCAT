@@ -2,7 +2,7 @@
 
 ## Description
 - 📫 How to reach me **contact@moticat.net**
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Node.js / discord.js / Java
 
 ## Achievements
 - Running a verified Discord Bot.
